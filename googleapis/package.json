@@ -1,0 +1,25 @@
+{
+  "name": "rpiassistant",
+  "version": "1.0.0",
+  "description": "Embedded the assistant on the Pi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "authg"
+  },
+  "keywords": [
+    "proto"
+  ],
+  "author": "bernestoalberto",
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.5.0",
+    "googleapis": "^31.0.0",
+    "grpc": "^1.11.3",
+    "makefile": "0.0.2",
+    "pbf": "^3.1.0"
+  }
+}
